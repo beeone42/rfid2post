@@ -1,0 +1,7 @@
+{
+    "rfid_login_api":"https://domain.tld/path/",
+    "slack_url":"https://hooks.slack.com/services/ABCDEF/0123456/T0k3n1d",
+    "slack_username":"defoncator",
+    "slack_icon_emoji":":ghost:",
+    "slack_msg":"!home format "
+}
